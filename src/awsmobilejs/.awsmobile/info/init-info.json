@@ -1,0 +1,23 @@
+{
+	"projectPath": "/Users/s-keigou/Documents/ghq/megurodev-amplify/src",
+	"projectInfo": {
+		"ProjectName": "src",
+		"ProjectPath": "/Users/s-keigou/Documents/ghq/megurodev-amplify/src",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendLastPushSuccessful": false,
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": ""
+	},
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
